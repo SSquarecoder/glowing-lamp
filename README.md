@@ -15,7 +15,7 @@ Just for a change
 
 
 ### 🌱 Skills:
-- **Languages:** C, JavaScript, C++  
+- **Languages:** C, JavaScript, C++, Java  
 - **Frontend:** React.js, HTML, CSS  
 - **Tools:** Figma, Git, VS Code  
 
